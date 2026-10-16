@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">Ren Vale — Building things. Connecting dots.</title>
+  <desc id="desc">An editorial charcoal and ivory banner with a red line connecting three points.</desc>
+  <rect width="1200" height="480" rx="18" fill="#1d1e20"/>
+  <path d="M64 80H1136" stroke="#454543"/>
+  <g fill="#b9b7af" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="4">
+    <text x="64" y="54">REN VALE</text>
+    <text x="1136" y="54" text-anchor="end">IDEAS → CONNECTIONS</text>
+  </g>
+  <g fill="#f3f0e7" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">
+    <text x="64" y="202">Building things.</text>
+    <text x="64" y="292">Connecting dots.</text>
+  </g>
+  <path d="M64 391H698L834 353H1136" fill="none" stroke="#e3554c" stroke-width="3"/>
+  <circle cx="64" cy="391" r="7" fill="#e3554c"/>
+  <circle cx="834" cy="353" r="7" fill="#e3554c"/>
+  <circle cx="1136" cy="353" r="7" fill="#e3554c"/>
+  <text x="64" y="443" fill="#b9b7af" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2">VTUBER ZUKAN</text>
+  <text x="1136" y="443" text-anchor="end" fill="#b9b7af" font-family="Arial, Helvetica, sans-serif" font-size="18">People. Creators. Possibilities.</text>
+</svg>
