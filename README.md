@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/profile-banner.svg" width="100%" alt="Ren Vale. Building things. Connecting dots." />
+</p>
 
-<!--
-**renvalenote/renvalenote** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Ren.
 
-Here are some ideas to get you started:
+I'm building **[VTuber Zukan](https://vtuberzukan.com)** to help people discover VTubers and the creators behind them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### 01 / Currently building
+
+#### [VTuber Zukan ↗](https://vtuberzukan.com)
+
+A place to discover VTubers and connect the dots to the people behind their virtual worlds.
+
+**VTubers · Creators · Discovery**
+
+[Explore VTuber Zukan →](https://vtuberzukan.com)
+
+<br />
+
+### 02 / Elsewhere
+
+[X / @renvalenotes ↗](https://x.com/renvalenotes) &nbsp; · &nbsp; [note / renvalenotes ↗](https://note.com/renvalenotes)
+
+<br />
+
+---
+
+<sub>Ren Vale · Building things. Connecting dots.</sub>
