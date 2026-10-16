@@ -1,31 +1,21 @@
-<p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Ren Vale. Building things. Connecting dots." />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/intro-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/intro-light.svg">
+  <img src="./assets/intro-light.svg" width="100%" alt="Hi, I'm Ren. Building things. Connecting dots. Currently building:">
+</picture>
 
-## Hi, I'm Ren.
+<a href="https://vtuberzukan.com"><img src="./assets/zukan-showcase.svg" width="100%" alt="VTuber Zukan — a database connecting VTubers and creators. A preview of the real project website."></a>
 
-I'm building **[VTuber Zukan](https://vtuberzukan.com)** to help people discover VTubers and the creators behind them.
+## A map of VTubers and their creators.
 
-<br />
+VTuber Zukan connects virtual worlds with the people behind them.
 
-### 01 / Currently building
+**[Explore VTuber Zukan ↗](https://vtuberzukan.com)**
 
-#### [VTuber Zukan ↗](https://vtuberzukan.com)
-
-A place to discover VTubers and connect the dots to the people behind their virtual worlds.
-
-**VTubers · Creators · Discovery**
-
-[Explore VTuber Zukan →](https://vtuberzukan.com)
-
-<br />
-
-### 02 / Elsewhere
-
-[X / @renvalenotes ↗](https://x.com/renvalenotes) &nbsp; · &nbsp; [note / renvalenotes ↗](https://note.com/renvalenotes)
-
-<br />
+<br>
 
 ---
 
-<sub>Ren Vale · Building things. Connecting dots.</sub>
+<sub>FIND ME ELSEWHERE</sub>
+
+[X / @renvalenotes](https://x.com/renvalenotes) &nbsp; · &nbsp; [note / renvalenotes](https://note.com/renvalenotes)
